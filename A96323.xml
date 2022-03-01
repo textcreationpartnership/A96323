@@ -1,0 +1,461 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vvhisper in the eare. Or A discourse between the Kings Maiesty, and the high court of Parliament. Concerning a pacification, and conditions of peace. / By a scholler of Oxford, and a Citizen of London.</title>
+            <author>Scholler of Oxford.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96323</idno>
+            <idno type="STC">Wing W1676</idno>
+            <idno type="STC">Thomason E244_43</idno>
+            <idno type="STC">ESTC R18700</idno>
+            <idno type="EEBO-CITATION">99860456</idno>
+            <idno type="PROQUEST">99860456</idno>
+            <idno type="VID">112576</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96323)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112576)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 42:E244[43])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vvhisper in the eare. Or A discourse between the Kings Maiesty, and the high court of Parliament. Concerning a pacification, and conditions of peace. / By a scholler of Oxford, and a Citizen of London.</title>
+                  <author>Scholler of Oxford.</author>
+                  <author>Citizen of London.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield, printer to the Vniversity,</publisher>
+                  <pubPlace>Oxford [i.e. London], :</pubPlace>
+                  <date>1642 [i.e. 1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint is false; a London counterfeit -- Madan.</note>
+                  <note>A moderate dialogue which inclines to the King's side, but great respect shown to the Parliament. Also contains an account of the damage done in Canterbury cathedral.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "January 9th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112576:1" rendition="simple:additions"/>
+            <p>A VVhiſper in the eare. OR A DISCOURSE BETWEEN THE KINGS MAIESTY, AND THE HIGH COVRT OF PARLIAMENT. Concerning a Pacification, and Conditions of PEACE.</p>
+            <p>
+               <hi>By a Scholler of Oxford, and a Citizen of London.</hi>
+            </p>
+            <p>OXFORD, Printed by <hi>Leonard Lichfield,</hi> Printer to the Vniverſity, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112576:2"/>
+            <head>A Conference between a Gentleman of Ox<g ref="char:EOLhyphen"/>ford, and a Citizen of London.</head>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>
+                  <seg rend="decorInit">N</seg>Oble Sir, y'are welcome, more, and moſt welcome all the degrees of welcome, thrice welcome you have beene, and ſhall to my houſe, and to the beſt enter<g ref="char:EOLhyphen"/>tainment I may or can afford you.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>Deſerving friend, you have really ſhewed it, and I have experimentally found it; for which, I muſt ingenuouſly acknowledge, that I am deeply engaged in the debt-booke of your love, and ſo farre <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nae in arrerage upon the ſcore of your favour, that for the preſent, though I am your obliged debtor, yet for the future I ſhall endeavor by all faire and civill reſpects to demeane my ſelfe as your vowed, devoted, and moſt gratefull ſervant; for to you I may well ſay, as ſometimes <hi>Aeſchines</hi> ſaid to <hi>Alexander, Debeotibi meipſum,</hi> I owe you my very ſelfe.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Sir, you tranſcend the ſpheare of my deſervings, and aſſure your ſelfe, I am all yours.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>You are all goodneſſe, the cord of whoſe fidelity hath ſo firme<g ref="char:EOLhyphen"/>ly tyed me unto you, that I am yours ſoly, and yours inſeperably, yours perpetually, upon all occaſions, whereſoever, whenſoever, or in what<g ref="char:EOLhyphen"/>ſoever you ſhall vouchſafe to command me.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Sir, all the favour that at this time I ſhall requeſt of you is onely that you would be pleaſed to impart unto me the late paſſages and occur<g ref="char:EOLhyphen"/>rances which have beene in agitation at Oxford, where His Majeſty hath been and is now reſident: The ſtate of the whole Kingdome is concerned therein; and we Londoners are of the Athenians humor and diſpoſition, deſirous and inquiſitive to heare newes.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>Indeed, 'tis the demand of all men now a dayes in all places whereſoever they come, what novelty is abroad: harke in your eare, the times are now growne ſo perilous, that to be an honeſt man its a dangerous matter, and who is truly religious in theſe deſtracted daies, (wherein moſt men have a forme of godlineſſe, but deny the power thereof) its a diffi<g ref="char:EOLhyphen"/>cult queſtion to determine. There are ſo many Sectaries ſprung up a<g ref="char:EOLhyphen"/>mongſt us, that more for number, and the like to theſe for nature, was ne<g ref="char:EOLhyphen"/>ver knowne in the memory of man. Hence it is, that ſo many men, ſo ma<g ref="char:EOLhyphen"/>ny townes, Cities, nay whole Counties are divided. Some are for the
+<pb facs="tcp:112576:2"/>King, others altogether for his great Councell, the Parliament. Wiltſhire, and the County of Salop are wholy for the King, as by their ingage<g ref="char:EOLhyphen"/>ment and reſolution doth appeare: Hartfordſhire and Buckinghamſhire, <hi>(cum multis altis)</hi> are as much for the Parliament, and are fully reſolved to hazard their lives in the Parliaments cauſe.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>'Tis ſtrange that ſuch diviſions ſhould bee amongſt ſuch loyall ſubjects under ſo royall a Soveraign; for though Prince and people have been happy a long time, (to the admiration of other Nations) yet never did the King and Kingdom ſuffer more then both theſe have done of late.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>'Tis not ſo ſtrange as true: Ile tell you the ground of it. Harke in your eare. In theſe our preſent diſtractions, when forraigne forces threa<g ref="char:EOLhyphen"/>ten, and probably invited, and a Malignant Party at home offended: The Envious one, that grand Impoſtor hath caſt a bone, &amp; raiſed a conteſtation between the King and his two Houſes of Parliament touching the Militia. His Majeſty claimes the diſpoſing of it to be in him by right of Law; the Parliament ſayth, <hi>rebus ſio ſtantibus</hi> and <hi>nolente Rege,</hi> the ordering of it is in them. That ordinance of the Militia without the Kings conſent, hath been a fomenter of his Malitia, and was one of the bones of our unhappy diviſion.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>I am of your mind, that that was the firſt fuell to the fire of this unnaturall warre.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>There was not wanting other matter to encreaſe this flame: Liſt<g ref="char:EOLhyphen"/>en, and Ile tell you, the keeping the King out of Hull, and taking his Armes and Ammunition from him.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>But with your favour Sir, theſe were not taken from the King, but for the King: and good ground is there for it; for the high and honou<g ref="char:EOLhyphen"/>rable Court of Parliament is His Majeſties juſt and faithfull Councell, and what ſoever they doe, or have at any time done, is upon grave advice, and in mature deliberation, and doth undoubtedly tend to the good and benefit of the King and the whole Kingdome.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>You ſay well, yet give me leave to tell you that the Kings Coun<g ref="char:EOLhyphen"/>cellours at Oxford are of another opinion: They confeſſe it is ſo preten<g ref="char:EOLhyphen"/>ded, but the quere is, whether is he ſo intended: If it be, why is his Navy at ſea imployed againſt him? why have they made an ordinance for ſet<g ref="char:EOLhyphen"/>ling Cuſtomes without an Act of Parliament? when an act of this Parlia<g ref="char:EOLhyphen"/>ment declares, that no Cuſtome is due without an Act &amp; all ſuch perſons as receive the ſame<g ref="char:punc">▪</g> incurre the forfeiture of a premunire. Hereupon His Majeſty hath ſet forth a Proclamation at his Court at Oxford the 16. day of this preſent moneth, prohibiting the payment and receit of Cuſtomes, and other maritime duties upon that late ordinance of both Houſes of Par<g ref="char:EOLhyphen"/>liament.
+<pb facs="tcp:112576:3"/>In the Proclamation His Majeſty doth relate, that the monyes ariſing from theſe duties, are to ſupport an unnatural rebellion againſt him, and to foment an inteſtine and civill diſſention; and doth thereby de<g ref="char:EOLhyphen"/>clare to all his people of what ſort ſoever, that whoſoever henceforward ſhall by vertue of the pretended Ordinance of Parliament, pay any mo<g ref="char:EOLhyphen"/>nyes for cuſtome or other duties therein mentioned, other then to his proper miniſters, what is due to him by the knowne Lawes of the King<g ref="char:EOLhyphen"/>dom, that he will proceed againſt him or them in due time, as an ilaffected perſon or perſons to the peace of this Kingdome.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>'Tis impoſſible that ſuch an aggregate body as the Parliament is, can or ſhould do any injury either to the King, or his three Kingdomes.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>I aſſent to you in that. It is not the Parliament, (for that aſſem<g ref="char:EOLhyphen"/>bly is, <hi>Fens Iuſtitiae</hi>) but ſome Malignant members of the repreſentative body, which have been taxed by the King, in his ſeverall Declarations.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>The King ſtands for his Prerogative, the Parliament for their priviledge, about theſe there are a great diſtance, and greivous difference between them both, inſomuch that both are diſpleaſed, and 'its much feared that nothing but the ſword can decide their controverſie; I would to God it were once ſheathed; I am ſure ſo long as it is brandiſhed over our heads, 'tis a ſad Omen of fatall deſtruction, and doth menace ruine and deſolation to the Kingdome of England. Warre is the way to deſtroy all, and of all warre a Civill warre is the worſt, and at this time our land is ſo fruitfull of ſuch monſters who like ſo many <hi>Neroes,</hi> are ready to deſtroy their owne mother. How many Myriads of barbarous men are there a<g ref="char:EOLhyphen"/>mongſt us, who delight in nothing more then in the effuſion of bloud: Theſe are the hot-ſpurres of the times, whoſe ſpirits have no ſpirit at all to peace. All are not well-affected unto peace: But it is, and ſhall be my prayer to the God of peace, that the wounds of this diſtractive warre may be healed, that our peace may be, as formerly it hath beene, againe re<g ref="char:EOLhyphen"/>ſtored; and to this end, I pray God amend all thoſe that are malevolently diſpoſed.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>Amen ſay I.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>And further, may it pleaſe God to take away the wicked from the King, that his throne may be eſtabliſhed in righteouſneſſe.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>You wiſh well, but who (I pray you) are thoſe wicked ones<g ref="char:punc">▪</g>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Why, the malignant party, and they are the Cavaliers, and evill Councellors that have bin, and are ſtill about his Majeſty, who have ſedu<g ref="char:EOLhyphen"/>ced our good King, and withdrawn him from his great and beſt Councell.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>I wiſh that all who have been engines in withdrawing, or maine actors of withdrawing the King from his Pallace at Whitehall and from
+<pb facs="tcp:112576:3"/>his Parliament at Weſtminſter, <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> labour and invention. For had not His Majeſty <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> from us, there had not beene ſuch an unhappy <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> his preſent there is.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>That I verily beleeve; but I pray, Sir <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>elolve m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> who thoſe mayne Ropes are (a rope take 'em) in withdrawing the King.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>Harke in your eare, for feare one of 'em may overheare me: Though my brain<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> be muddy, I would be lo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to have them waſht in the kennell, by thoſe rude, unruly, headſtrong, and gl<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>diheaded Schiſmaticks. They are rable of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rowniſts, and Anabaptiſts, who have beeene and continew ſtill the chiefe diſturbers of the peace both of the Church and Commonwealth. By their factious meetings and illegall tumules, they have driven His Majeſty from us: The King himſelfe profeſſeth no leſſe in theſe words, No other reaſon induced <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ve our City of London, but that with honour and ſafety We could not ſtay there, and it was in regard of them; therefore they are a moſt dangerous and miſchievous generation: They are li<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Divell himſelf, Legion multitudes of them are now reſident in the City of London, in every Pariſh round about us.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>I cannot confide in all that you averre.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>(Harke in your eare) There are a great many of <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eſe waſpes now at this inſtant in the Countries, and in the Parliaments Army.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Say you ſo: Pray Sir what have they done?</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>What have they done? nay what have they not done? Their barbarous and ſacrilegious inhumanity hath beene of late exerciſed in Churches, as in Canterbury, Worceſter, Oxford, and other places, where they have perpetrated <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> commited ſuch horrid and unheard of outra<g ref="char:EOLhyphen"/>ges, as Jewes and Atheiſts never practiſed before.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>I am ſorry whi<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> my h<gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>o heare it.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>I would <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> had no <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e it. At Canterbury in Kent, they no ſooner entred the Church <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, but <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt-like, they began a fight with God himſelfe; overthrew the Communion Table, tore the velvet cloth from before it, defaced the goodly <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>eene, violated the monu<g ref="char:EOLhyphen"/>ments of the dead, ſpoiled the Organs, broke downe the rareſt windowes in all Chriſtendome, with the antient railes and ſeates, and the brazen Eagle that did ſupport the Bi<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, forced open the cupbords of the ſing<g ref="char:EOLhyphen"/>ingmen, rent ſome of their Surp<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s, gownes and bibles, and carried away others, mangled all the Service bookes and bookes of Common Prayer, beſtrowing the whole pavement with the leaves thereof.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>If ſuch an outrage was committed, may they anſwer for it that did it.</p>
+            </sp>
+            <pb facs="tcp:112576:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:112576:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:112576:5"/>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>Nay this was not all: For as if all this had beene too too little to ſatisfie the funy and madneſſe of theſe miſcreants, they further encrea<g ref="char:EOLhyphen"/>ſed their malice and cruely upon the Arras hangings in the Quire, repre<g ref="char:EOLhyphen"/>ſenting the whole ſtory of our Saviour, wherein obſerving divers figures of Chriſt I tr<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ble to expreſſe their blaſphemy one ſaid here is Chriſt; ſwore that he would ſtab him; another ſaid here is Chriſt, ſwore that he would rip up his bowells, which they did accordingly, ſo farre as the figures were capable thereof; beſides many other never the like heard of villanies: And not content therewith, finding another ſtatue of Chriſt in the frontiſpiece of the South gate, they diſcharged againſt it forty ſhot at leaſt, triumphing much when they hit it in the head or face, as if they were reſolved to Crucifie againe the Lord of life. They threatned the ruine of the whole <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rick and would have done more miſchiefe, had not Colonel <hi>Sandis</hi> with ſome others come to the reliefe and reſcue.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>I pray God amend all that is amiſſe.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>The times are grown ſo bad that better they may be, but worſe they cannot be. We heard lately at Oxford that many of your Citizens have petitioned to the Parliament for peace; their Apprentices likewiſe, and divers well affected yong men of London have ſupplicated to the two honourable Houſes for a bleſſed Accomodation.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>'Tis true, there are ſome for it, and ſome againſt it.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>Sir <hi>Robert Heath</hi> ſometimes Lord chiefe Iuſtice of the Com<g ref="char:EOLhyphen"/>monpleas, after glad to have the favor to plead as a Common Serjeant, now Lord cheife Juſtice of the Kings bench, is in great fame and favour, with his Majeſtie.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>So are many more at this preſent, but the Parliament are fully reſolved to proceed againſt two perſons, (Delinquents) as the maine pro<g ref="char:EOLhyphen"/>moters and fomentors of this unnaturall warre upon the Subjects, thereby to give ſatisfaction to the world in an example of Juſtice to be excuted upon them.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>Who are they.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>The one is the Lord <hi>Digby,</hi> whom fame taxes to be the adviſer of his Majeſty to come in perſon to the Houſe of Commons in a hoſtile manner, to accuſe the five members of high Treaſon. This Lord fayling of his end in that deſigne, adviſed a warre upon the Parliament, as it evi<g ref="char:EOLhyphen"/>dently appeares by his actions and preparations both beyond ſea and here in England, and by ſeverall letters which have been intercepted. The other perſon demanded to be proceeded againſt, is the Earle or <hi>Newcaſtle,</hi> who hath put the ſword into the Papiſts hands, who hath in a moſt rigo<g ref="char:EOLhyphen"/>rous manner tyranniſed over the Kings good Subjects in Yorkeſhire, im<g ref="char:EOLhyphen"/>poſing
+<pb facs="tcp:112576:5"/>upon divers, men great and greivous taxes as upon ſome, 2000, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> upon others 3000 <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>This is one ground <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Marqueſſe of <hi>Hartford</hi> hath of late, declined the ſervice his <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> him in, for that the King <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ath not <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> given way to the <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ling of a Popiſh army in the North, but hath granted Commiſſion to the Marqueſſe of <hi>Worceſter</hi> a knowne Papiſt to be Generall of the Forces in thoſe parts where he is, whoſe Army conſiſte moſt of profeſt Papiſts.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Have you heard yet of Colonel Go<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>es late landing at New<g ref="char:EOLhyphen"/>caſtle?</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>I have. 'Tis for certaine that that faithleſſe Colonel, once Go<g ref="char:EOLhyphen"/>verner of Port ſmouth, who afterwards deſired baniſhment, and promiſed never more to ſerve againſt the Parliament is yet for all his vowe and pro<g ref="char:EOLhyphen"/>miſe come over againe, and hath taken <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>es contrary to his faith. He is landed with a regiment of a thouſand old experienced ſouldiers, eighty brave Commanders, and twenty peeces of Ordnance, with all Ammu<g ref="char:EOLhyphen"/>nition and equipage promotionable: beſides he hath bro<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ht with him armes for tenne thouſand men, and her Majeſties Standard, which is to be the blazon of her army, and erected at the head of it (called the Catholicke Army) under the command of the Earle of Newcaſtle.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>They ſay there are three Regiments more comming from the Northerne Counties to the ſaid Earle of Newcaſtle, which army of Papiſts come compleated will prove more formidable to this Kingdome then is at preſent imagined.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>'Tis credibly reported likewiſe, that in Nottinghamſhire the Cavaliers doe make a p<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>y, having poſſeſſed themſelves of Newarke up<g ref="char:EOLhyphen"/>on Trent, and put 400. men into the Caſtle, and command the paſſage there over the River.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>But Ile tell you of a ſtrange thing, the like you never heard of; 'Tis of a Pamphlet that was on Saturday laſt publiſhed and printed, enti<g ref="char:EOLhyphen"/>tuled, A complaint to both <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of Parliament. The author and pub<g ref="char:EOLhyphen"/>liſher of it hath ſcattered man<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of them in divers places, as in <hi>Pauls</hi> Church-yard, in Weſtminſter-Hall, and Weſtminſter-Abey. The afore<g ref="char:EOLhyphen"/>ſaid Pamplet is ſtuffed with intollerable language, full or bitterneſſe and invectives againſt the Parliament, and their legall proceedings: therein that great Councell of the King and Kingdome is called a corporation of Projectors, and moſt unjuſtly <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ed for doing nothing theſe two yeares paſt tending to the good of the Republique.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>In that the Pamphleteer (or rather ſcandalous Libeller) is moſt injurious to our grave Senate; for the world knowes, and we can all ſuffi<g ref="char:EOLhyphen"/>ciently
+<pb facs="tcp:112576:6"/>relate what memorable acts, and never to be forgotten things, the indefatigable labours and endeavours of thoſe Worthies have effected, and brought to paſſe for the publicke good (againſt all oppoſition whatſo<g ref="char:EOLhyphen"/>ever) ever ſince their firſt Seſſion, to this preſent day.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Bleſſed be God for it, and I pray God ſtill bleſſe and proſper them in their determinations and conſultations.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>And as that ſcandalous Pamphlet is condemned to be burnt by the hand of the hang man, to may the malignant author, contriver, &amp;c pub<g ref="char:EOLhyphen"/>liſher thereof be ſtigmatized and branded with the perpetuall marke of infamy for defaming ſo renowned an Aſſembly in that falſe and infa<g ref="char:EOLhyphen"/>mous and libellous Pamphlet. At Oxford lately at the Councell Table, the Earle of Briſtol made a ſpeech, the effect whereof was to animate His Majeſty not to lay downe Armes, but to proſecute the Parliament with all vigor: And at the ſame time the Earle of Dorſet roſe up, and ſpake bravely for a happy agreement and concurrence betweene the King and his Parliament.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>Pray Sir, how ſtands His Majeſty affected?</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>Our gratious King deſires it, and would willingly upon honoura<g ref="char:EOLhyphen"/>ble tearmes, embrace it with all his heart So doth his Nephew Prince <hi>Ru<g ref="char:EOLhyphen"/>pert,</hi> if we may beleeve that ſpeech which he lately ſpake to His Majeſty and the Lords of His Privy Councell, at his returne from Redding to Ox<g ref="char:EOLhyphen"/>ford.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>I ſhall love Prince <hi>Rupert</hi> the better for this, and am now perſwa<g ref="char:EOLhyphen"/>ded that he hath ſuffered more by the obloquie and detraction of factious ſpirits then ever he deſerved.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>That I verily beleeve. For my part I thinke there's no good man but deſires peace.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>May peace bee within our walls, and plenty a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ine within our dwellings.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>May the clouds of diſcord, diſcontent, d<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and difference be all diſſipated, that there may bee a cleere and right underſtanding be<g ref="char:EOLhyphen"/>tween the King and the parliament. Then, come <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> or warre, life or death, it is, and ſhall be our prayer, God ſave the K<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>g.</p>
+            </sp>
+            <sp>
+               <speaker>Cit.</speaker>
+               <p>And preſerve the Parliament.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
